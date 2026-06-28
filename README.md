@@ -2,6 +2,12 @@
 
 Landing page premium para uma imobiliária fictícia, desenvolvida como parte do portfólio do Continuums.
 
+## Preview
+
+Acesse a demonstração:
+
+[🌐 Ver Landing Page](https://continuums-systems.github.io/landing-imobiliaria/)
+
 ## Tecnologias
 
 - React 19 + TypeScript
